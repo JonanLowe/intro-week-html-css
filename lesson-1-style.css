@@ -18,6 +18,11 @@ header{
    
 }
 
+h1, h2, h3 {font-family: sans-serif;}
+
+* {font-family: sans-serif}
+
+
 h1 {
     background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url("Weddel-Sea.jpg");
     background-repeat: no-repeat;
@@ -25,8 +30,6 @@ h1 {
     background-position: 0% 35%;
     padding: 200px;
     top: 0;
-    
-    
     -webkit-text-fill-color: rgb(255, 255, 255);
     font-family: sans-serif;
     
