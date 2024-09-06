@@ -23,6 +23,10 @@ h1, h2, h3 {font-family: sans-serif;}
 * {font-family: sans-serif}
 
 
+a:link{ 
+font-size: 14px
+}
+
 h1 {
     background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url("Weddel-Sea.jpg");
     background-repeat: no-repeat;
