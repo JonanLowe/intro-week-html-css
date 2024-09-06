@@ -1,0 +1,38 @@
+.textA {
+    font-weight: lighter;
+    font-size: 40px;
+    }   
+
+.textB {font-weight: bold;
+    font-size: 30px;
+    }
+
+
+header{
+    padding: 40px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    text-align: center;
+    font-family: sans-serif;
+   
+}
+
+h1 {
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url("Weddel-Sea.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 35%;
+    padding: 200px;
+    top: 0;
+    
+    
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    
+}
+
+body {
+    background-image: linear-gradient(white, lightgrey);
+    
+}
